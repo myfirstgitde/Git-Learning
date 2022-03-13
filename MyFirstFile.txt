@@ -1,0 +1,6 @@
+I am learning Git.
+It contain several commands which is very helpful such as:
+git status
+git add .
+git status
+git commit -m "message"
